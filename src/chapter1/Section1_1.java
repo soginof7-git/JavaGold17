@@ -1,6 +1,6 @@
 package chapter1;
 
-public class Chapter1_1 {
+public class Section1_1 {//ラッパークラス
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
