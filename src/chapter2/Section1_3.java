@@ -23,4 +23,10 @@ public class Section1_3 {
 
 }
 
-public class 
+class Main {
+	public static void main(String[] args) {
+		Section1_3.Inner inner3 = new Section1_3().new Inner();
+		Section1_3.Nested nested3 = new Section1_3.Nested();
+		
+	}
+}
